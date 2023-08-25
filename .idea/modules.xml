@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" filepath="$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder-pattern/builder-pattern.iml" filepath="$PROJECT_DIR$/builder-pattern/builder-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/command-pattern/command-pattern.iml" filepath="$PROJECT_DIR$/command-pattern/command-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/dao-pattern/dao-pattern.iml" filepath="$PROJECT_DIR$/dao-pattern/dao-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design-patterns.iml" filepath="$PROJECT_DIR$/.idea/design-patterns.iml" />
