@@ -1,0 +1,1 @@
+In this example, we will use the prototype pattern to create Animals Store.
